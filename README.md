@@ -1,2 +1,2 @@
-# blog-commet
+# blog-commets
 Store blog comments
